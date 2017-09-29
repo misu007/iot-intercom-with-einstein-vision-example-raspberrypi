@@ -1,0 +1,26 @@
+{
+  "name": "iot-intercom-with-einstein-vision-example-raspberrypi",
+  "version": "1.0.0",
+  "description": "<https://github.com/misu007/iot-intercom-with-einstein-vision-example>をご覧ください。",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misu007/iot-intercom-with-einstein-vision-example-raspberrypi.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/misu007/iot-intercom-with-einstein-vision-example-raspberrypi/issues"
+  },
+  "homepage": "https://github.com/misu007/iot-intercom-with-einstein-vision-example-raspberrypi#readme",
+  "dependencies": {
+    "child-process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "request": "^2.83.0",
+    "sense-hat-led": "^1.0.1",
+    "sense-joystick": "0.0.2"
+  }
+}
